@@ -1,0 +1,102 @@
+h4{
+    text-align: center;
+    
+}
+
+/* 
+h1 {
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+    }
+    
+    hr {
+    width: 65%;
+    border-width: 3px;
+    background-color:#181818;
+    }
+    .box {
+    background-color: #181818;
+    width: 70%;
+    padding: 20px;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    transform: translateX(-50%);
+    border-radius: 20px;
+    }
+    
+    label{
+    color: #fff;
+    display: block;
+    width: 80%;
+    padding-top: 15px;
+    font-size: 1.2rem;
+    margin: 20px 0 0 0;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    transform: translateX(-50%);
+    }
+    
+    small {
+    display: block;
+    width: 60%;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    transform: translateX(-50%);
+    }
+    
+    form input, form textarea {
+    display: block;
+    width: 60%;
+    padding: 15px;
+    background-color: #181818;
+    border: 3px solid #3498db;
+    border-radius: 5px;
+    margin: 10px 0;
+    outline: none;
+    font-size: 1rem;
+    color: #fff;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    transform: translateX(-50%);
+    transition: 1.25s;
+    }
+    
+    form input:focus, form textarea:focus {
+    border-color: #ED5565;
+    }
+    
+    button {
+    color: #fff;
+    font-weight: 900;
+    padding:10px;
+    width: 15%;
+    background-color: #181818;
+    border: 3px solid #f53b57;
+    border-radius: 5px;
+    cursor: pointer;
+    right: 50%;
+    position: relative;
+    transform: translateX(-50%);
+    transition: 1.2s;
+    }
+    button[type=submit]{
+    left: 40%;
+    }
+    
+    button[type=reset] {
+    left: 45%;
+    }
+    
+    button:hover {
+    border: 3px solid #2ecc71;
+    } */
+
+
+
+   
+
